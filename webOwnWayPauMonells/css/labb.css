@@ -1,0 +1,100 @@
+body {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 10pt;
+margin: 40px 50px 40px 50px;
+color: #FFF;
+background: #DDFFFF;//FFF;
+}
+
+
+a {
+color: #FFD600;//04F;
+text-decoration: none;
+cursor: pointer;
+}
+a:hover {
+text-decoration: underline;
+}
+
+
+table {
+border-collapse: collapse;
+}
+th {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 8pt;
+font-weight: bold;
+text-align: left;
+color: #AAEEFF;//FFF;
+background: url("formpic.gif");//#00528C;//fa0;
+border-style: solid;
+border-width: 1px;
+padding: 1px 2px 1px 2px;
+border-color: #CCC;
+}
+td {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 8pt;
+border-style: solid;
+border-width: 1px;
+border-color: #CCC;
+padding: 1px 2px 1px 2px;
+}
+
+
+select {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 8pt;
+padding: 0px 0px 0px 0px;
+border-width: 1px;
+border-color: #CCC;
+}
+
+
+input {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 8pt;
+padding: 0px 0px 0px 0px;
+border-width: 1px;
+border-color: #CCC;
+}
+
+
+.aleft {
+text-align: left;
+}
+.acenter {
+text-align: center;
+}
+.aright {
+text-align: right;
+}
+
+
+.grey {
+color: #AAA;
+}
+.blue {
+color: #04F;
+}
+.green {
+color: #080;
+}
+.red {
+color: #E00;
+}
+
+
+tr.par {
+background: #4052C0;//#eee;
+}
+tr.impar {
+background: #2010A0;//#ddd;
+}
+
+.titulo {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 11pt;
+font-weight: bold;
+color: #FA0;
+}

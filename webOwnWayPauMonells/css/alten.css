@@ -1,0 +1,109 @@
+body {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 10pt;
+color: #EEE;
+margin: 40px 50px 40px 50px;
+background: #080808;
+}
+
+
+a {
+color: #0099FE;
+text-decoration: none;
+cursor: pointer;
+}
+a:hover {
+text-decoration: underline;
+}
+
+
+table {
+border-collapse: collapse;
+}
+th {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 8pt;
+font-weight: bold;
+text-align: left;
+color: #EEE;
+/*background: #656565;
+border-style: solid;
+border-width: 1px;
+padding: 1px 2px 1px 2px;
+border-color: #3F3F3F;*/
+
+border-style: none;
+background: #656565 url(../img/sub-header-bg2.png) repeat-x;
+height: 22px;
+
+}
+td {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 8pt;
+border-style: solid;
+border-width: 1px;
+border-color: #3F3F3F;
+padding: 1px 2px 1px 2px;
+}
+
+
+select {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #EEE;
+background: #545454;
+padding: 0px 0px 0px 0px;
+border-width: 1px;
+border-color: #3F3F3F;
+}
+
+
+input {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 8pt;
+color: #EEE;
+background: #545454;
+padding: 0px 0px 0px 0px;
+border-width: 1px;
+border-color: #3F3F3F;
+}
+
+
+.aleft {
+text-align: left;
+}
+.acenter {
+text-align: center;
+}
+.aright {
+text-align: right;
+}
+
+
+.grey {
+color: #AAA;
+}
+.blue {
+color: #0099FE;
+}
+.green {
+color: #080;
+}
+.red {
+color: #E33;
+}
+
+
+tr.par {
+background: #434343;
+}
+tr.impar {
+background: #323232;
+}
+
+.titulo {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 11pt;
+font-weight: bold;
+color: #EEE;
+}

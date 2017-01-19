@@ -1,0 +1,49 @@
+<wishes>
+
+    <wish name="/login" page="login.jsp"/>
+    <wish name="/register" page="register.jsp"/>
+    <wish name="/logout" class="action.LogoutAction"/>
+    
+    <wish name="/mysql" page="mysql.jsp"/>
+    <wish name="/backup" page="mysql_backup.jsp"/>
+
+    <wish name="/loginaction" class="action.LoginAction"/>
+    <wish name="/registeraction" class="action.RegisterAction"/>
+
+    <wish name="/main" class="action.Main"/>
+
+    <wish name="/createteam" class="action.CreateTeam"/>
+    <wish name="/createteamaction" class="action.CreateTeamAction"/>
+
+    <wish name="/viewteam" class="action.VerEquipo"/>
+    <wish name="/historial" class="action.Historial"/>
+
+    <wish name="/editteam" class="action.EditarEquipo"/>
+    <wish name="/fireplayer" class="action.FirePlayer"/>
+    <wish name="/fireothers" class="action.FireOthers"/>
+    <wish name="/buyplayer" class="action.BuyPlayer"/>
+    <wish name="/buyothers" class="action.BuyOthers"/>
+    <wish name="/pickhability" class="action.PickHability"/>
+
+    
+    <wish name="/roundrobin" class="action.RoundRobin"/>
+    <wish name="/roundrobinaction" class="action.RoundRobinAction"/>
+
+    <wish name="/verclasificacion" class="action.VerClasificacion"/>
+    <wish name="/verpartidos" class="action.VerPartidos"/>
+    <wish name="/estadisticas" class="action.Estadisticas"/>
+
+    <wish name="/entraracta" class="action.EntrarActa"/>
+    <wish name="/entraractaaction" class="action.EntrarActaAction"/>
+    <wish name="/editaracta" class="action.EditarActa"/>
+    <wish name="/aceptaracta" class="action.AceptarActa"/>
+    <wish name="/aceptaractaaction" class="action.AceptarActaAction"/>
+    <wish name="/veracta" class="action.VerActa"/>
+
+    <wish name="/myteams" class="action.MyTeams"/>
+    <wish name="/leagues" class="action.Leagues"/>
+
+    <wish name="/stars" class="action.Stars"/>
+
+
+</wishes>

@@ -1,0 +1,276 @@
+<!-- mejoras=[gn,ag,st,ps,mt]-->
+
+<razas>
+
+<raza nombre="Amazon">
+<posicion nombre="Linewoman" mov="6" fue="3" agi="3" arm="7" habilidades="Dodge" coste="50" mejoras="12220" cantidad="16"/>
+<posicion nombre="Thrower" mov="6" fue="3" agi="3" arm="7" habilidades="Dodge Pass" coste="70" mejoras="12210" cantidad="2"/>
+<posicion nombre="Catcher" mov="6" fue="3" agi="3" arm="7" habilidades="Dodge Catch" coste="70" mejoras="11220" cantidad="2"/>
+<posicion nombre="Blitzer" mov="6" fue="3" agi="3" arm="7" habilidades="Dodge Block" coste="90" mejoras="12120" cantidad="4"/>
+<otros rerolls="50" medico="si"/>
+</raza>
+
+<raza nombre="Chaos">
+<posicion nombre="Beastman" mov="6" fue="3" agi="3" arm="8" habilidades="Horns" coste="60" mejoras="12121" cantidad="16"/>
+<posicion nombre="ChaosWarrior" mov="5" fue="4" agi="3" arm="9" habilidades="" coste="100" mejoras="12121" cantidad="4"/>
+<posicion nombre="Minotaur" mov="5" fue="5" agi="2" arm="8" habilidades="Loner Frenzy Horns MightyBlow ThickSkull WildAnimal" coste="150" mejoras="22121" cantidad="1"/>
+<otros rerolls="60" medico="si"/>
+</raza>
+
+<raza nombre="ChaosDwarf">
+<posicion nombre="Hobgoblin" mov="6" fue="3" agi="3" arm="7" habilidades="" coste="40" mejoras="12220" cantidad="16"/>
+<posicion nombre="ChaosDwarf" mov="4" fue="3" agi="2" arm="9" habilidades="Block Tackle ThickSkull" coste="70" mejoras="12122" cantidad="6"/>
+<posicion nombre="BullCentaur" mov="6" fue="4" agi="2" arm="9" habilidades="Sprint SureFeet ThickSkull" coste="130" mejoras="12120" cantidad="2"/>
+<posicion nombre="Minotaur" mov="5" fue="5" agi="2" arm="8" habilidades="Loner Frenzy Horns MightyBlow ThickSkull WildAnimal" coste="150" mejoras="22122" cantidad="1"/>
+<otros rerolls="70" medico="si"/>
+</raza>
+
+<raza nombre="DarkElf">
+<posicion nombre="Lineman" mov="6" fue="3" agi="4" arm="8" habilidades="" coste="70" mejoras="11220" cantidad="16"/>
+<posicion nombre="Runner" mov="7" fue="3" agi="4" arm="7" habilidades="DumpOff" coste="80" mejoras="11210" cantidad="2"/>
+<posicion nombre="Assassin" mov="6" fue="3" agi="4" arm="7" habilidades="Shadowing Stab" coste="90" mejoras="11220" cantidad="2"/>
+<posicion nombre="Blitzer" mov="7" fue="3" agi="4" arm="8" habilidades="Block" coste="100" mejoras="11220" cantidad="4"/>
+<posicion nombre="WitchElf" mov="7" fue="3" agi="4" arm="7" habilidades="Frenzy Dodge JumpUp" coste="110" mejoras="11220" cantidad="2"/>
+<otros rerolls="50" medico="si"/>
+</raza>
+
+<raza nombre="Dwarf">
+<posicion nombre="Blocker" mov="4" fue="3" agi="2" arm="9" habilidades="Block Tackle ThickSkull" coste="70" mejoras="12120" cantidad="16"/>
+<posicion nombre="Runner" mov="6" fue="3" agi="3" arm="8" habilidades="SureHands ThickSkull" coste="80" mejoras="12210" cantidad="2"/>
+<posicion nombre="Blitzer" mov="5" fue="3" agi="3" arm="9" habilidades="Block ThickSkull" coste="80" mejoras="12120" cantidad="2"/>
+<posicion nombre="TrollSlayer" mov="5" fue="3" agi="2" arm="8" habilidades="Block Dauntless Frenzy ThickSkull" coste="90" mejoras="12120" cantidad="2"/>
+<posicion nombre="Deathroller" mov="4" fue="7" agi="1" arm="10" habilidades="BreakTackle DirtyPlayer Juggernaut MightyBlow NoHands SecretWeapon StandFirm" coste="160" mejoras="22120" cantidad="1"/>
+<otros rerolls="40" medico="si"/>
+</raza>
+
+<raza nombre="DwarfLRB6">
+<posicion nombre="Blocker" mov="4" fue="3" agi="2" arm="9" habilidades="Block Tackle ThickSkull" coste="70" mejoras="12120" cantidad="16"/>
+<posicion nombre="Runner" mov="6" fue="3" agi="3" arm="8" habilidades="SureHands ThickSkull" coste="80" mejoras="12210" cantidad="2"/>
+<posicion nombre="Blitzer" mov="5" fue="3" agi="3" arm="9" habilidades="Block ThickSkull" coste="80" mejoras="12120" cantidad="2"/>
+<posicion nombre="TrollSlayer" mov="5" fue="3" agi="2" arm="8" habilidades="Block Dauntless Frenzy ThickSkull" coste="90" mejoras="12120" cantidad="2"/>
+<posicion nombre="Deathroller" mov="4" fue="7" agi="1" arm="10" habilidades="Loner BreakTackle DirtyPlayer Juggernaut MightyBlow NoHands SecretWeapon StandFirm" coste="160" mejoras="22120" cantidad="1"/>
+<otros rerolls="40" medico="si"/>
+</raza>
+
+<raza nombre="Elf">
+<posicion nombre="Lineman" mov="6" fue="3" agi="4" arm="7" habilidades="" coste="60" mejoras="11220" cantidad="16"/>
+<posicion nombre="Thrower" mov="6" fue="3" agi="4" arm="7" habilidades="Pass" coste="70" mejoras="11210" cantidad="2"/>
+<posicion nombre="Catcher" mov="8" fue="3" agi="4" arm="7" habilidades="Catch NervesOfSteel" coste="100" mejoras="11220" cantidad="4"/>
+<posicion nombre="Blitzer" mov="7" fue="3" agi="4" arm="8" habilidades="Block SideStep" coste="110" mejoras="11220" cantidad="2"/>
+<otros rerolls="50" medico="si"/>
+</raza>
+
+<raza nombre="Goblin">
+<posicion nombre="Goblin" mov="6" fue="2" agi="3" arm="7" habilidades="Dodge RightStuff Stunty" coste="40" mejoras="21220" cantidad="16"/>
+<posicion nombre="Bombardier" mov="6" fue="2" agi="3" arm="7" habilidades="Bombardier Dodge NoHands SecretWeapon Stunty" coste="40" mejoras="21220" cantidad="1"/>
+<posicion nombre="Pogoer" mov="7" fue="2" agi="3" arm="7" habilidades="DirtyPlayer Dodge Leap SecretWeapon Stunty VeryLongLegs" coste="40" mejoras="21220" cantidad="1"/>
+<posicion nombre="Looney" mov="6" fue="2" agi="3" arm="7" habilidades="Chainsaw NoHands SecretWeapon Stunty" coste="40" mejoras="21220" cantidad="1"/>
+<posicion nombre="Fanatic" mov="3" fue="7" agi="3" arm="7" habilidades="BallNChain NoHands SecretWeapon Stunty" coste="70" mejoras="22120" cantidad="1"/>
+<posicion nombre="Troll" mov="4" fue="5" agi="1" arm="9" habilidades="Loner AlwaysHungry MightyBlow ReallyStupid Regeneration ThrowTeamMate" coste="110" mejoras="22120" cantidad="2"/>
+<otros rerolls="60" medico="si"/>
+</raza>
+
+<raza nombre="GoblinLRB6">
+<posicion nombre="Goblin" mov="6" fue="2" agi="3" arm="7" habilidades="Dodge RightStuff Stunty" coste="40" mejoras="21220" cantidad="16"/>
+<posicion nombre="Bombardier" mov="6" fue="2" agi="3" arm="7" habilidades="Bombardier Dodge SecretWeapon Stunty" coste="40" mejoras="21220" cantidad="1"/>
+<posicion nombre="Looney" mov="6" fue="2" agi="3" arm="7" habilidades="Chainsaw SecretWeapon Stunty" coste="40" mejoras="21220" cantidad="1"/>
+<posicion nombre="Fanatic" mov="3" fue="7" agi="3" arm="7" habilidades="BallNChain NoHands SecretWeapon Stunty" coste="70" mejoras="22120" cantidad="1"/>
+<posicion nombre="Pogoer" mov="7" fue="2" agi="3" arm="7" habilidades="Dodge Leap Stunty VeryLongLegs" coste="70" mejoras="21220" cantidad="1"/>
+<posicion nombre="Troll" mov="4" fue="5" agi="1" arm="9" habilidades="Loner AlwaysHungry MightyBlow ReallyStupid Regeneration ThrowTeamMate" coste="110" mejoras="22120" cantidad="2"/>
+<otros rerolls="60" medico="si"/>
+</raza>
+
+<raza nombre="Halfling">
+<posicion nombre="Halfling" mov="5" fue="2" agi="3" arm="6" habilidades="Dodge RightStuff Stunty" coste="30" mejoras="21220" cantidad="16"/>
+<posicion nombre="Treeman" mov="2" fue="6" agi="1" arm="10" habilidades="Loner MightyBlow StandFirm StrongArm TakeRoot ThickSkull ThrowTeamMate" coste="120" mejoras="22120" cantidad="2"/>
+<otros rerolls="60" medico="si"/>
+</raza>
+
+<raza nombre="HalflingLRB6">
+<posicion nombre="Halfling" mov="5" fue="2" agi="3" arm="6" habilidades="Dodge RightStuff Stunty" coste="30" mejoras="21220" cantidad="16"/>
+<posicion nombre="Treeman" mov="2" fue="6" agi="1" arm="10" habilidades="MightyBlow StandFirm StrongArm TakeRoot ThickSkull ThrowTeamMate" coste="120" mejoras="22120" cantidad="2"/>
+<otros rerolls="60" medico="si"/>
+</raza>
+
+<raza nombre="HighElf">
+<posicion nombre="Lineman" mov="6" fue="3" agi="4" arm="8" habilidades="" coste="70" mejoras="11220" cantidad="16"/>
+<posicion nombre="Thrower" mov="6" fue="3" agi="4" arm="8" habilidades="Pass SafeThrow" coste="90" mejoras="11210" cantidad="2"/>
+<posicion nombre="Catcher" mov="8" fue="3" agi="4" arm="7" habilidades="Catch" coste="90" mejoras="11220" cantidad="4"/>
+<posicion nombre="Blitzer" mov="7" fue="3" agi="4" arm="8" habilidades="Block" coste="100" mejoras="11220" cantidad="2"/>
+<otros rerolls="50" medico="si"/>
+</raza>
+
+<raza nombre="Human">
+<posicion nombre="Lineman" mov="6" fue="3" agi="3" arm="8" habilidades="" coste="50" mejoras="12220" cantidad="16"/>
+<posicion nombre="Catcher" mov="8" fue="2" agi="3" arm="7" habilidades="Catch Dodge" coste="70" mejoras="11220" cantidad="4"/>
+<posicion nombre="Thrower" mov="6" fue="3" agi="3" arm="8" habilidades="SureHands Pass" coste="70" mejoras="12210" cantidad="2"/>
+<posicion nombre="Blitzer" mov="7" fue="3" agi="3" arm="8" habilidades="Block" coste="90" mejoras="12120" cantidad="4"/>
+<posicion nombre="Ogre" mov="5" fue="5" agi="2" arm="9" habilidades="Loner BoneHead MightyBlow ThickSkull ThrowTeamMate" coste="140" mejoras="22120" cantidad="1"/>
+<otros rerolls="50" medico="si"/>
+</raza>
+
+<raza nombre="Khemri">
+<posicion nombre="Skeleton" mov="5" fue="3" agi="2" arm="7" habilidades="Regeneration" coste="30" mejoras="12220" cantidad="16"/>
+<posicion nombre="Thro-Ra" mov="6" fue="3" agi="2" arm="7" habilidades="Pass Regeneration SureHands" coste="70" mejoras="12210" cantidad="2"/>
+<posicion nombre="Blitz-Ra" mov="6" fue="3" agi="2" arm="8" habilidades="Block Regeneration" coste="90" mejoras="12120" cantidad="2"/>
+<posicion nombre="Mummy" mov="3" fue="5" agi="1" arm="9" habilidades="MightyBlow Regeneration" coste="110" mejoras="22120" cantidad="4"/>
+<otros rerolls="70" medico="no"/>
+</raza>
+
+<raza nombre="KhemriLRB6">
+<posicion nombre="Skeleton" mov="5" fue="3" agi="2" arm="7" habilidades="Regeneration ThickSkull" coste="40" mejoras="12220" cantidad="16"/>
+<posicion nombre="Thro-Ra" mov="6" fue="3" agi="2" arm="7" habilidades="Pass Regeneration SureHands" coste="70" mejoras="12210" cantidad="2"/>
+<posicion nombre="Blitz-Ra" mov="6" fue="3" agi="2" arm="8" habilidades="Block Regeneration" coste="90" mejoras="12120" cantidad="2"/>
+<posicion nombre="TombGuardian" mov="4" fue="5" agi="1" arm="9" habilidades="Decay Regeneration" coste="100" mejoras="22120" cantidad="4"/>
+<otros rerolls="70" medico="no"/>
+</raza>
+
+<raza nombre="Lizardman">
+<posicion nombre="Skink" mov="8" fue="2" agi="3" arm="7" habilidades="Dodge Stunty" coste="60" mejoras="21220" cantidad="16"/>
+<posicion nombre="Saurus" mov="6" fue="4" agi="1" arm="9" habilidades="" coste="80" mejoras="12122" cantidad="6"/>
+<posicion nombre="Kroxigor" mov="6" fue="5" agi="1" arm="9" habilidades="Loner BoneHead MightyBlow PrehensileTail ThickSkull" coste="140" mejoras="22120" cantidad="1"/>
+<otros rerolls="60" medico="si"/>
+</raza>
+
+<raza nombre="Necromantic">
+<posicion nombre="Zombie" mov="4" fue="3" agi="2" arm="8" habilidades="Regeneration" coste="40" mejoras="12220" cantidad="16"/>
+<posicion nombre="Ghoul" mov="7" fue="3" agi="3" arm="7" habilidades="Dodge" coste="70" mejoras="11220" cantidad="2"/>
+<posicion nombre="Wight" mov="6" fue="3" agi="3" arm="8" habilidades="Block Regeneration" coste="90" mejoras="12120" cantidad="2"/>
+<posicion nombre="FleshGolem" mov="4" fue="4" agi="2" arm="9" habilidades="Regeneration StandFirm ThickSkull" coste="110" mejoras="12120" cantidad="2"/>
+<posicion nombre="Werewolf" mov="8" fue="3" agi="3" arm="8" habilidades="Claws Frenzy Regeneration" coste="120" mejoras="11220" cantidad="2"/>
+<otros rerolls="70" medico="no"/>
+</raza>
+
+<raza nombre="NecromanticLRB6">
+<posicion nombre="Zombie" mov="4" fue="3" agi="2" arm="8" habilidades="Regeneration" coste="40" mejoras="12220" cantidad="16"/>
+<posicion nombre="Ghoul" mov="7" fue="3" agi="3" arm="7" habilidades="Dodge" coste="70" mejoras="11220" cantidad="2"/>
+<posicion nombre="Wight" mov="6" fue="3" agi="3" arm="8" habilidades="Block Regeneration" coste="90" mejoras="12120" cantidad="2"/>
+<posicion nombre="FleshGolem" mov="4" fue="4" agi="2" arm="9" habilidades="Regeneration StandFirm ThickSkull" coste="100" mejoras="12120" cantidad="2"/>
+<posicion nombre="Werewolf" mov="8" fue="3" agi="3" arm="8" habilidades="Claws Frenzy Regeneration" coste="120" mejoras="11220" cantidad="2"/>
+<otros rerolls="70" medico="no"/>
+</raza>
+
+<raza nombre="Norse">
+<posicion nombre="Lineman" mov="6" fue="3" agi="3" arm="7" habilidades="Block" coste="50" mejoras="12220" cantidad="16"/>
+<posicion nombre="Thrower" mov="6" fue="3" agi="3" arm="7" habilidades="Block Pass" coste="70" mejoras="12210" cantidad="2"/>
+<posicion nombre="Runner" mov="7" fue="3" agi="3" arm="7" habilidades="Block Dauntless" coste="90" mejoras="11220" cantidad="2"/>
+<posicion nombre="Berserker" mov="6" fue="3" agi="3" arm="7" habilidades="Block Frenzy JumpUp" coste="90" mejoras="12120" cantidad="2"/>
+<posicion nombre="Ulfwerener" mov="6" fue="4" agi="2" arm="8" habilidades="Frenzy" coste="110" mejoras="12120" cantidad="2"/>
+<posicion nombre="SnowTroll" mov="5" fue="5" agi="1" arm="8" habilidades="Loner Claws DisturbingPresence Frenzy WildAnimal" coste="140" mejoras="22120" cantidad="1"/>
+<otros rerolls="60" medico="si"/>
+</raza>
+
+<raza nombre="Nurgle">
+<posicion nombre="Rotter" mov="5" fue="3" agi="3" arm="8" habilidades="Decay NurglesRot" coste="40" mejoras="12221" cantidad="16"/>
+<posicion nombre="Pestigor" mov="6" fue="3" agi="3" arm="8" habilidades="Horns NurglesRot Regeneration" coste="80" mejoras="12121" cantidad="4"/>
+<posicion nombre="NurgleWarrior" mov="4" fue="4" agi="2" arm="9" habilidades="DisturbingPresence FoulAppearance NurglesRot Regeneration" coste="110" mejoras="12121" cantidad="4"/>
+<posicion nombre="BeastOfNurgle" mov="4" fue="5" agi="1" arm="9" habilidades="Loner DisturbingPresence FoulAppearance MightyBlow NurglesRot ReallyStupid Regeneration Tentacles" coste="140" mejoras="22122" cantidad="1"/>
+<otros rerolls="70" medico="no"/>
+</raza>
+
+<raza nombre="Ogre">
+<posicion nombre="Snotling" mov="5" fue="1" agi="3" arm="5" habilidades="Dodge RightStuff SideStep Stunty Titchy" coste="20" mejoras="21220" cantidad="16"/>
+<posicion nombre="Ogre" mov="5" fue="5" agi="2" arm="9" habilidades="BoneHead MightyBlow ThickSkull ThrowTeamMate" coste="140" mejoras="22120" cantidad="6"/>
+<otros rerolls="70" medico="si"/>
+</raza>
+
+<raza nombre="Orc">
+<posicion nombre="Lineman" mov="5" fue="3" agi="3" arm="9" habilidades="" coste="50" mejoras="12220" cantidad="16"/>
+<posicion nombre="Goblin" mov="6" fue="2" agi="3" arm="7" habilidades="RightStuff Dodge Stunty" coste="40" mejoras="21220" cantidad="4"/>
+<posicion nombre="Thrower" mov="5" fue="3" agi="3" arm="8" habilidades="SureHands Pass" coste="70" mejoras="12210" cantidad="2"/>
+<posicion nombre="BlackOrc" mov="4" fue="4" agi="2" arm="9" habilidades="" coste="80" mejoras="12120" cantidad="4"/>
+<posicion nombre="Blitzer" mov="6" fue="3" agi="3" arm="9" habilidades="Block" coste="80" mejoras="12120" cantidad="4"/>
+<posicion nombre="Troll" mov="4" fue="5" agi="1" arm="9" habilidades="Loner AlwaysHungry MightyBlow ReallyStupid Regeneration ThrowTeamMate" coste="110" mejoras="22120" cantidad="1"/>
+<otros rerolls="60" medico="si"/>
+</raza>
+
+<raza nombre="Skaven">
+<posicion nombre="Lineman" mov="7" fue="3" agi="3" arm="7" habilidades="" coste="50" mejoras="12222" cantidad="16"/>
+<posicion nombre="Thrower" mov="7" fue="3" agi="3" arm="7" habilidades="Pass SureHands" coste="70" mejoras="12212" cantidad="2"/>
+<posicion nombre="GutterRunner" mov="9" fue="2" agi="4" arm="7" habilidades="Dodge" coste="80" mejoras="11222" cantidad="4"/>
+<posicion nombre="Blitzer" mov="7" fue="3" agi="3" arm="8" habilidades="Block" coste="90" mejoras="12122" cantidad="2"/>
+<posicion nombre="RatOgre" mov="6" fue="5" agi="2" arm="8" habilidades="Loner Frenzy MightyBlow PrehensileTail WildAnimal" coste="160" mejoras="22122" cantidad="1"/>
+<otros rerolls="60" medico="si"/>
+</raza>
+
+<raza nombre="SkavenLRB6">
+<posicion nombre="Lineman" mov="7" fue="3" agi="3" arm="7" habilidades="" coste="50" mejoras="12222" cantidad="16"/>
+<posicion nombre="Thrower" mov="7" fue="3" agi="3" arm="7" habilidades="Pass SureHands" coste="70" mejoras="12212" cantidad="2"/>
+<posicion nombre="GutterRunner" mov="9" fue="2" agi="4" arm="7" habilidades="Dodge" coste="80" mejoras="11222" cantidad="4"/>
+<posicion nombre="Blitzer" mov="7" fue="3" agi="3" arm="8" habilidades="Block" coste="90" mejoras="12122" cantidad="2"/>
+<posicion nombre="RatOgre" mov="6" fue="5" agi="2" arm="8" habilidades="Loner Frenzy MightyBlow PrehensileTail WildAnimal" coste="150" mejoras="22122" cantidad="1"/>
+<otros rerolls="60" medico="si"/>
+</raza>
+
+<raza nombre="Undead">
+<posicion nombre="Skeleton" mov="5" fue="3" agi="2" arm="7" habilidades="Regeneration" coste="30" mejoras="12220" cantidad="16"/>
+<posicion nombre="Zombie" mov="4" fue="3" agi="2" arm="8" habilidades="Regeneration" coste="40" mejoras="12220" cantidad="16"/>
+<posicion nombre="Ghoul" mov="7" fue="3" agi="3" arm="7" habilidades="Dodge" coste="70" mejoras="11220" cantidad="4"/>
+<posicion nombre="Wight" mov="6" fue="3" agi="3" arm="8" habilidades="Block Regeneration" coste="90" mejoras="12120" cantidad="2"/>
+<posicion nombre="Mummy" mov="3" fue="5" agi="1" arm="9" habilidades="Regeneration MightyBlow" coste="110" mejoras="22120" cantidad="2"/>
+<otros rerolls="70" medico="no"/>
+</raza>
+
+<raza nombre="UndeadLRB6">
+<posicion nombre="Skeleton" mov="5" fue="3" agi="2" arm="7" habilidades="Regeneration ThickSkull" coste="40" mejoras="12220" cantidad="16"/>
+<posicion nombre="Zombie" mov="4" fue="3" agi="2" arm="8" habilidades="Regeneration" coste="40" mejoras="12220" cantidad="16"/>
+<posicion nombre="Ghoul" mov="7" fue="3" agi="3" arm="7" habilidades="Dodge" coste="70" mejoras="11220" cantidad="4"/>
+<posicion nombre="Wight" mov="6" fue="3" agi="3" arm="8" habilidades="Block Regeneration" coste="90" mejoras="12120" cantidad="2"/>
+<posicion nombre="Mummy" mov="3" fue="5" agi="1" arm="9" habilidades="Regeneration MightyBlow" coste="120" mejoras="22120" cantidad="2"/>
+<otros rerolls="70" medico="no"/>
+</raza>
+
+<raza nombre="Vampire">
+<posicion nombre="Thrall" mov="6" fue="3" agi="3" arm="7" habilidades="" coste="40" mejoras="12220" cantidad="16"/>
+<posicion nombre="Vampire" mov="6" fue="4" agi="4" arm="8" habilidades="BloodLust HypnoticGaze Regeneration" coste="110" mejoras="11120" cantidad="6"/>
+<otros rerolls="70" medico="si"/>
+</raza>
+
+<raza nombre="WoodElf">
+<posicion nombre="Lineman" mov="7" fue="3" agi="4" arm="7" habilidades="" coste="70" mejoras="11220" cantidad="16"/>
+<posicion nombre="Catcher" mov="9" fue="2" agi="4" arm="7" habilidades="Catch Dodge" coste="90" mejoras="11220" cantidad="4"/>
+<posicion nombre="Thrower" mov="7" fue="3" agi="4" arm="7" habilidades="Pass" coste="90" mejoras="11210" cantidad="2"/>
+<posicion nombre="Wardancer" mov="8" fue="3" agi="4" arm="7" habilidades="Block Dodge Leap" coste="120" mejoras="11220" cantidad="2"/>
+<posicion nombre="Treeman" mov="2" fue="6" agi="1" arm="10" habilidades="Loner MightyBlow StandFirm StrongArm TakeRoot ThickSkull ThrowTeamMate" coste="120" mejoras="22120" cantidad="1"/>
+<otros rerolls="50" medico="si"/>
+</raza>
+
+<raza nombre="WoodElfLRB6">
+<posicion nombre="Lineman" mov="7" fue="3" agi="4" arm="7" habilidades="" coste="70" mejoras="11220" cantidad="16"/>
+<posicion nombre="Catcher" mov="8" fue="2" agi="4" arm="7" habilidades="Catch Dodge Sprint" coste="90" mejoras="11220" cantidad="4"/>
+<posicion nombre="Thrower" mov="7" fue="3" agi="4" arm="7" habilidades="Pass" coste="90" mejoras="11210" cantidad="2"/>
+<posicion nombre="Wardancer" mov="8" fue="3" agi="4" arm="7" habilidades="Block Dodge Leap" coste="120" mejoras="11220" cantidad="2"/>
+<posicion nombre="Treeman" mov="2" fue="6" agi="1" arm="10" habilidades="Loner MightyBlow StandFirm StrongArm TakeRoot ThickSkull ThrowTeamMate" coste="120" mejoras="22120" cantidad="1"/>
+<otros rerolls="50" medico="si"/>
+</raza>
+
+<raza nombre="ChaosPact">
+<posicion nombre="Marauder" mov="6" fue="3" agi="3" arm="8" habilidades="" coste="50" mejoras="12111" cantidad="12"/>
+<posicion nombre="GoblinRenegade" mov="6" fue="2" agi="3" arm="7" habilidades="Animosity Dodge RightStuff Stunty" coste="40" mejoras="21221" cantidad="1"/>
+<posicion nombre="SkavenRenegade" mov="7" fue="3" agi="3" arm="7" habilidades="Animosity" coste="50" mejoras="12221" cantidad="1"/>
+<posicion nombre="DarkElfRenegade" mov="6" fue="3" agi="4" arm="8" habilidades="Animosity" coste="70" mejoras="11221" cantidad="1"/>
+<posicion nombre="ChaosTroll" mov="4" fue="5" agi="1" arm="9" habilidades="Loner AlwaysHungry MightyBlow ReallyStupid Regeneration ThrowTeamMate" coste="110" mejoras="22122" cantidad="1"/>
+<posicion nombre="ChaosOgre" mov="5" fue="5" agi="2" arm="9" habilidades="Loner BoneHead MightyBlow ThickSkull ThrowTeamMate" coste="140" mejoras="22122" cantidad="1"/>
+<posicion nombre="Minotaur" mov="5" fue="5" agi="2" arm="8" habilidades="Loner Frenzy Horns MightyBlow ThickSkull WildAnimal" coste="150" mejoras="22122" cantidad="1"/>
+<otros rerolls="70" medico="si"/>
+</raza>
+
+<raza nombre="Slann">
+<posicion nombre="Lineman" mov="6" fue="3" agi="3" arm="8" habilidades="Leap VeryLongLegs" coste="60" mejoras="12220" cantidad="16"/>
+<posicion nombre="Catcher" mov="7" fue="2" agi="4" arm="7" habilidades="DivingCatch Leap VeryLongLegs" coste="80" mejoras="11220" cantidad="4"/>
+<posicion nombre="Blitzer" mov="7" fue="3" agi="3" arm="8" habilidades="DivingTackle JumpUp Leap VeryLongLegs" coste="110" mejoras="11120" cantidad="4"/>
+<posicion nombre="Kroxigor" mov="6" fue="5" agi="1" arm="9" habilidades="Loner BoneHead MightyBlow PrehensileTail ThickSkull" coste="140" mejoras="22120" cantidad="1"/>
+<otros rerolls="50" medico="si"/>
+</raza>
+
+<raza nombre="Underworld">
+<posicion nombre="UnderworldGoblin" mov="6" fue="2" agi="3" arm="7" habilidades="RightStuff Dodge Stunty" coste="40" mejoras="21221" cantidad="12"/>
+<posicion nombre="SkavenLineman" mov="7" fue="3" agi="3" arm="7" habilidades="Animosity" coste="50" mejoras="12221" cantidad="2"/>
+<posicion nombre="SkavenThrower" mov="7" fue="3" agi="3" arm="7" habilidades="Animosity Pass SureHands" coste="70" mejoras="12211" cantidad="2"/>
+<posicion nombre="SkavenBlitzer" mov="7" fue="3" agi="3" arm="8" habilidades="Animosity Block" coste="90" mejoras="12121" cantidad="2"/>
+<posicion nombre="WarpstoneTroll" mov="4" fue="5" agi="1" arm="9" habilidades="Loner AlwaysHungry MightyBlow ReallyStupid Regeneration ThrowTeamMate" coste="110" mejoras="22121" cantidad="1"/>
+<otros rerolls="70" medico="si"/>
+</raza>
+
+</razas>
+

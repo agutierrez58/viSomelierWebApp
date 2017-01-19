@@ -1,0 +1,87 @@
+<habilidades>
+
+<habilidad name="Block" category="gn"/>
+<habilidad name="Dauntless" category="gn"/>
+<habilidad name="DirtyPlayer" category="gn"/>
+<habilidad name="Fend" category="gn"/>
+<habilidad name="Frenzy" category="gn"/>
+<habilidad name="Kick" category="gn"/>
+<habilidad name="KickOffReturn" category="gn"/>
+<habilidad name="PassBlock" category="gn"/>
+<habilidad name="Pro" category="gn"/>
+<habilidad name="Shadowing" category="gn"/>
+<habilidad name="StripBall" category="gn"/>
+<habilidad name="SureHands" category="gn"/>
+<habilidad name="Tackle" category="gn"/>
+<habilidad name="Wrestle" category="gn"/>
+
+<habilidad name="Catch" category="ag"/>
+<habilidad name="DivingCatch" category="ag"/>
+<habilidad name="DivingTackle" category="ag"/>
+<habilidad name="Dodge" category="ag"/>
+<habilidad name="JumpUp" category="ag"/>
+<habilidad name="Leap" category="ag"/>
+<habilidad name="SideStep" category="ag"/>
+<habilidad name="SneakyGit" category="ag"/>
+<habilidad name="Sprint" category="ag"/>
+<habilidad name="SureFeet" category="ag"/>
+
+<habilidad name="Accurate" category="ps"/>
+<habilidad name="DumpOff" category="ps"/>
+<habilidad name="HailMaryPass" category="ps"/>
+<habilidad name="Leader" category="ps"/>
+<habilidad name="NervesOfSteel" category="ps"/>
+<habilidad name="Pass" category="ps"/>
+<habilidad name="SafeThrow" category="ps"/>
+
+<habilidad name="BreakTackle" category="st"/>
+<habilidad name="Grab" category="st"/>
+<habilidad name="Guard" category="st"/>
+<habilidad name="Juggernaut" category="st"/>
+<habilidad name="MigthyBlow" category="st"/>
+<habilidad name="MultipleBlock" category="st"/>
+<habilidad name="PilingOn" category="st"/>
+<habilidad name="StandFirm" category="st"/>
+<habilidad name="StrongArm" category="st"/>
+<habilidad name="ThickSkull" category="st"/>
+
+<habilidad name="BigHand" category="mt"/>
+<habilidad name="Claws" category="mt"/>
+<habilidad name="DisturbingPresence" category="mt"/>
+<habilidad name="ExtraArms" category="mt"/>
+<habilidad name="FoulAppearance" category="mt"/>
+<habilidad name="Horns" category="mt"/>
+<habilidad name="PrehensileTail" category="mt"/>
+<habilidad name="Tentacles" category="mt"/>
+<habilidad name="TwoHeads" category="mt"/>
+<habilidad name="VeryLongLegs" category="mt"/>
+
+<!--
+<habilidad name="AlwaysHungry" category=""/>
+<habilidad name="BallNChain" category=""/>
+<habilidad name="BloodLust" category=""/>
+<habilidad name="Bombardier" category=""/>
+<habilidad name="BoneHead" category=""/>
+<habilidad name="Chainsaw" category=""/>
+<habilidad name="Decay" category=""/>
+<habilidad name="FanFavourite" category=""/>
+<habilidad name="HypnoticGaze" category=""/>
+<habilidad name="Loner" category=""/>
+<habilidad name="NoHands" category=""/>
+<habilidad name="NurglesRot" category=""/>
+<habilidad name="ReallyStupid" category=""/>
+<habilidad name="Regeneration" category=""/>
+<habilidad name="RightStuff" category=""/>
+<habilidad name="SecretWeapon" category=""/>
+<habilidad name="Stab" category=""/>
+<habilidad name="Stakes" category=""/>
+<habilidad name="Stunty" category=""/>
+<habilidad name="TakeRoot" category=""/>
+<habilidad name="ThrowTeamMate" category=""/>
+<habilidad name="Titchy" category=""/>
+<habilidad name="WildAnimal" category=""/>
+-->
+
+</habilidades>
+
+

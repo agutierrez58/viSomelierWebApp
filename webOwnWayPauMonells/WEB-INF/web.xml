@@ -1,0 +1,16 @@
+<web-app>
+  <servlet>
+    <servlet-name>brain</servlet-name>
+    <servlet-class>brain.Brain</servlet-class>
+    <!--init-param>
+      <param-name>config</param-name>
+      <param-value>/WEB-INF/struts-config.xml</param-value>
+    </init-param-->
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>brain</servlet-name>
+    <url-pattern>*.do</url-pattern>
+  </servlet-mapping>
+</web-app>
+
